@@ -1,0 +1,50 @@
+/*
+Gavin Reynolds
+2017-04-11
+*/
+
+*{
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+header{
+	text-align:center;
+}
+
+main{
+	margin-left:15%;
+	margin-right:15%;
+}
+
+button{
+    background:#FFA500;
+    color:#FFF;
+    padding:10px;
+    border-radius:3px;
+    border:1px solid #E69500;
+    min-width:100px;
+    height:35px;
+    margin-right:20px;
+    margin-top:10px;
+    text-transform: uppercase;
+}
+
+button:hover{
+    background: #E69500;
+}
+
+a{
+    text-decoration:none;
+}
+a:link {
+    color: #FFA500;
+}
+a:visited {
+    color: #FFA500;
+}
+a:hover {
+    color: #E69500;
+}
+a:active {
+    color: #FFA500;
+}
